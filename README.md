@@ -16,7 +16,7 @@ The Smart Contract is Deployed and Verified on Scroll Sepolia Testnet:
 - **Licensing and Compliance:** Verify property licenses and compliance with regulations transparently.
 - **Direct Transactions:** Buy, sell, lend, and exchange properties without intermediaries.
 - **Secure and Transparent:** All transactions are recorded on the blockchain, ensuring security and transparency.
-
+- **Zero Knowlegde Proofs:** the authentication of home transferring will be very safe by ZKPs, We have use Noir-lang ZKPs by aztech for that.
 ## How It Works
 
 1. **Register Property:** Register property ownership securely on HexDeed's decentralized platform.
