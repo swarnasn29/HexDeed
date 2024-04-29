@@ -4,6 +4,10 @@
 [![GitHub stars](https://img.shields.io/github/stars/yourusername/HexDeed.svg)](https://github.com/yourusername/HexDeed/stargazers)
 
 HexDeed is a decentralized platform for registering, licensing, buying, selling, lending, and exchanging properties securely and transparently on the blockchain.
+The Smart Contract is Deployed and Verified on Scroll Sepolia Testnet:
+1. here is the contract address : 0x139Cc9441349ED74C7D642cEe681a9907e30FcF7.
+   
+![image](https://github.com/swarnasn29/HexDeed/assets/127869118/c9a31092-79d5-4a0e-bc35-9576c8bbad95)
 
 ## Features
 
